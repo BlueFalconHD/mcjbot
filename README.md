@@ -1,2 +1,2 @@
 # mcjbot
-A bot for www.reddit,com/r/MinecraftCommandJam/
+A bot for www.reddit.com/r/MinecraftCommandJam/
